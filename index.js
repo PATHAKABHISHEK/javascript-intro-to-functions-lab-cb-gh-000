@@ -11,7 +11,7 @@ function logShout(word){
   console.log(word.toUpperCase())
 }
 function logWhisper(word){
-  console.log(word.LowerCase())
+  console.log(word.toLowerCase())
 }
 
 function sayHiToGrandma(word){
